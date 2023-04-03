@@ -1,6 +1,6 @@
 """"""
 """
-Comprehension
+Comprehension - Comprehensions in python are a concise way to create sequences.
 [expression/operation on i for i in iterable (it can return its element one at a time - we can use loop)]
 
 List Comprehension
